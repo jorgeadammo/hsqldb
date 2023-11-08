@@ -1,0 +1,1 @@
+java -classpath hsqldb-2.3.4.jar org.hsqldb.util.DatabaseManager
